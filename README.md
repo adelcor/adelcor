@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Antonio del Corral
 
-<!--
-**adelcor/adelcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems developer with a focus on performance, low-level programming, and technical clarity.
 
-Here are some ideas to get you started:
+I started my journey at 42, where I spent years writing software from scratch in C and C++ — no frameworks, no shortcuts. I learned to build custom shells, HTTP servers, and multi-threaded systems by diving deep into memory, concurrency, and how things really work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Later, I moved into the cloud and data world, building efficient architectures on GCP and AWS, and helping teams migrate complex systems from legacy platforms. But even there, I brought a systems mindset: thinking in terms of memory, execution time, and long-term maintainability.
+
+What drives me is understanding what's happening when you're *not* looking. Where every cycle goes. What gets lost in abstraction — and how to bring that knowledge back to help others.
+
+---
+
+---
+
+## 📚 I believe in:
+
+- Leaving systems better than I found them  
+- Teaching through doing — and measuring what matters  
+- Writing code that doesn't just work, but works well  
+- Clarity > cleverness. Always.
+
+---
