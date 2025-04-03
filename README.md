@@ -17,6 +17,5 @@ What drives me is understanding what's happening when you're *not* looking. Wher
 - Leaving systems better than I found them  
 - Teaching through doing — and measuring what matters  
 - Writing code that doesn't just work, but works well  
-- Clarity > cleverness. Always.
-
+- Fast, simple, and under control. That’s how I like my code.
 ---
